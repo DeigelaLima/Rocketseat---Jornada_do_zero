@@ -14,22 +14,23 @@ Esse [Site](https://pt-br.imgbb.com) é um serviço gratuito de hospedagem de im
 
 Nesse [Site](https://fonts.google.com/) tem vários tipos de fontes.
 
-## O Antes e o Depois dos projetos
+## Desafios
 
-#### Desafio feito na aula
-**Antes**
+#### Desafio feito na aula <p>
+
+**Antes** <br>
 ![printAula2_antes](img/printAula2_antes.png)
 
-**Depois**
+**Depois** <br>
 ![printAula2_depois](img/printAula2_depois.png)
 
 
 #### Desafio feito sozinha :)
 
-**Antes**
+**Antes** <br>
 ![printDesafio2_antes](img/printDesafio2_antes.png)
 
-**Depois**
+**Depois** <br>
 ![printAula2_antes](img/printDesafio2_depois.png)
 
 

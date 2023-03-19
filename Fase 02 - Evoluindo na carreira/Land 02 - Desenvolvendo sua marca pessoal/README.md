@@ -38,7 +38,7 @@ Hill, em sua pesquisa sobre como atingir o êxito, percebeu que o sucesso não s
 * **Crie e compartilhe conteúdo relevante.** Ajuda as pessoas, demonstra seu conhecimento e interesse pela sua evolução.
 * **Participe de eventos e grupos.** Online ou presencial, o importante é ser visto e lembrado.
 
-***"Ao colocar seu nome no Google, **existem informações relevantes da área sobre você?"***
+***"Ao colocar seu nome no Google, existem informações relevantes da área sobre você?"***
 
 # Redes sociais
 Meio mais fácil pra iniciar seu ***networking*** e ***marca pessoal***.
