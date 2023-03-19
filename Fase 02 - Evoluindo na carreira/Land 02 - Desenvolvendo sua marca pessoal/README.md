@@ -15,13 +15,21 @@
 
 ***"Se você usar a Curiosidade por exemplo para estudar programação, você não vai parar de estudar nunca mais, porque a curiosidade sempre vai fazer a gente ir para o próximo nível"***
 
-### Quem é Napoleão Hill?
+### Quem é Napoleão Hill? 
+Foi um escritor estadunidense influente na área de autoajuda. Dizia um dos seus compromissos: “o que a mente do homem pode conceber e acreditar, pode ser alcançada”.<br>
+[Fonte](https://pt.wikipedia.org/wiki/Napoleon_Hill)
 
-### Livro: Como fazer amigos e influenciar pessoas (Esse livro serve para Network). 
+Napoleon Hill aborda fatores essenciais para atingir seus sonhos e objetivos. Ensina como definir um objetivo e o caminho para alcançá-lo. 
 
-### Livro: Como convencer uma pessoa em 90 segundos (sobre Marca Pessoal).
+Hill, em sua pesquisa sobre como atingir o êxito, percebeu que o sucesso não se trata apenas da riqueza financeira, essa é uma das áreas que compõem a vida da vida. <br>
+[Fonte](https://mastermindminas.com.br/blog/livros-napoleon-hill-desenvolvimento-pessoal#:~:text=Napoleon%20Hill%20aborda%20fatores%20essenciais,comp%C3%B5em%20a%20vida%20da%20vida.)
 
-### Livro: Hábitos Atômicos.
+## Leituras
+#### Livro: Como fazer amigos e influenciar pessoas (Esse livro serve para Network). 
+
+#### Livro: Como convencer uma pessoa em 90 segundos (sobre Marca Pessoal).
+
+#### Livro: Hábitos Atômicos.
 
 # Branding - Sua marca pessoal
 

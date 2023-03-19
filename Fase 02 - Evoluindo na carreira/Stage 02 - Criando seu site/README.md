@@ -10,9 +10,9 @@ Folha de estilo em cascata
 
 ![Declaracao_CSS](/Fase%2002%20-%20Evoluindo%20na%20carreira/Stage%2002%20-%20Criando%20seu%20site/img/declaracaoCSS.png)
 
-https://pt-br.imgbb.com é um serviço gratuito de hospedagem de imagens.
+Esse [Site](https://pt-br.imgbb.com) é um serviço gratuito de hospedagem de imagens.
 
-https://fonts.google.com/ tem vários tipos de fontes.
+Nesse [Site](https://fonts.google.com/) tem vários tipos de fontes.
 
 ## O Antes e o Depois dos projetos
 
@@ -33,4 +33,4 @@ https://fonts.google.com/ tem vários tipos de fontes.
 ![printAula2_antes](img/printDesafio2_depois.png)
 
 
-OBS.: Por algum motivo o meu navegador não conseguiu reconhecer o estilo aplicado no arquivo CSS da tag de paragráfo ```<p>```:(
+OBS.: Por algum motivo o meu navegador não conseguiu reconhecer o estilo aplicado no arquivo CSS da tag de paragráfo ```<p>``` nesse desafio :(

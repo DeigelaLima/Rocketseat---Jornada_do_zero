@@ -1,4 +1,6 @@
-Editor para Front-end: https://www.fronteditor.dev/
+[Links importantes](https://efficient-sloth-d85.notion.site/Jornada-do-Zero-primeira-vaga-93a7d365a2d6482a89d5f6d1b32d3d7b#b265ca94db7c469a85070e39fbc68ee5) (Figma do projeto e documentação)
+
+[Editor para Front-end](https://www.fronteditor.dev/)
 
 # HTML
 Linguagem de marcação de texto.Significa que eu tenho um texto que posso marcar ele. Dessa forma tem uma linguagem certa de escrever. 
